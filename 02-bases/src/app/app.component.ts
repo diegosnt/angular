@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html'
 })
 export class AppComponent {
-  public title:string = 'Mi primer app de Angular';
+  public title:string = 'Héroes';
 }
